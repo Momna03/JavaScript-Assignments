@@ -1,0 +1,11 @@
+var a = prompt("Enter a number: ");
+document.write("<p>Result: <br />The value of a is: " + a + "</p>");
+document.write("<p>---------------------------------------------</p>");
+document.write("<p>The value of ++a is: " + ++a + "</p>");
+document.write("<p>Now the value of a is: ", a + "</p>");
+document.write("<p>The value of a++ is: " + a++ + "</p>");
+document.write("<p>Now the value of a is: " + a + "</p>");
+document.write("<p>The value of --a is: " + --a + "</p>");
+document.write("<p>Now the value of a is: " + a + "</p>");
+document.write("<p>The value of a-- is: " + a-- + "</p>");
+document.write("<p>Now the value of a is: " + a + "</p>");
