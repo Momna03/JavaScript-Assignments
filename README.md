@@ -1,2 +1,2 @@
 # JavaScript Assignments
-All assigments of basic java script are here.
+All assigments of basic javaScript are here.
