@@ -2,8 +2,6 @@ var result = true;
 var password = prompt("Enter password");
 do {
 
-	
-
 	if( /([a-z]|[0-9])/gi.test(password) ) {
 		if( /[0-9]/.test(password[0]) ) {
 			// Password is not correct.
