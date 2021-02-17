@@ -44,12 +44,3 @@ else if(length == 3) {
 }
 
 document.write(words);
-
-
-
-/*for (var i=inputNumber.length -1; i>=0; i--) {
-	document.write("<p>i: " + i + ": " + inputNumber[i] + "</p>");
-	if(i == inputNumber.length)
-	words = counting[inputNumber[i] + 1];
-	words = words;
-}*/
