@@ -1,6 +1,6 @@
-var date = prompt("Enter date");
+var date = new Date();
 
-if(Number(date) < 16) {
+if(date.getDate() < 16) {
 	document.write("<h2>First fifteen days of the month</h2>");
 }
 else {
